@@ -27,7 +27,7 @@ Backend:
 
 Databases:
 
-[![MongoDB PostgreSQL](https://skills.thijs.gg/icons?i=mongodb,postgres)](https://skills.thijs.gg) , Mongoose Sequelize
+[![MongoDB PostgreSQL](https://skills.thijs.gg/icons?i=mongodb,postgres)](https://skills.thijs.gg) , Mongoose, Sequelize
 
 Tools:
 
