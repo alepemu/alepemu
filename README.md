@@ -2,7 +2,7 @@
 ### My name is Alejandro  
 I studied Architecture in the university of Granada, but I've always been interested in coding and software development. I've been learning different programming languages like Python, JavaScript and C. Currently specialised in JavaScript technologies using NodeJS, Express, Koa, TypeScript, React, Redux, Mongo and SQL among others.
 
-As an architect, I have had the experience working on multidisciplinary teams where a good communication and the ability to solve problems across the many stages of a project, from early design to a more technical development and construction, are key to deliver a succesful project.
+As an architect, I have worked on multidisciplinary teams where a good communication and the ability to solve problems across the different stages of a project, from early design to a more technical development and construction, are key to deliver a succesful work.
 
 Passionate about new technologies and good design, I enjoy writing clean and organised code that my team can easily understand. I love working in an efficient collaborative environment where everybody can contribute.
 
