@@ -1,15 +1,16 @@
 ## Hi there 👋
 ### My name is Alejandro  
-I studied Architecture in the university of Granada, but I've always been interested in coding and software development. I've been learning different programming languages like Python, JavaScript and C. Currently specialised in JavaScript technologies using NodeJS, Express, Koa, TypeScript, React, Redux, Mongo and SQL among others.
+Currently specialised in JavaScript technologies using NodeJS, Express, Koa, TypeScript, React, Redux, Mongo and SQL. I have also been learning different programming languages like Python and C.
 
-As an architect, I have worked on multidisciplinary teams where a good communication and the ability to solve problems across the different stages of a project, from early design to a more technical development and construction, are key to deliver a succesful work.
+I studied Architecture but I have always been interested in coding and software development. As an architect, I have experienced working in multidisciplinary teams where a good communication and the ability to solve
+problems across the different stages of a project are key to deliver a succesful work.
 
-Passionate about new technologies and good design, I enjoy writing clean and organised code that my team can easily understand. I love working in an efficient collaborative environment where everybody can contribute.
+Passionate about new technologies and good design, I enjoy writing clean and organised code that my team can easily understand. I love working in an efficient collaborative environment where everybody can take part.
 
-Far from the computer, I like taking care of my well-being, eating healthy, exercising regularly and travelling to new and unknown destinations.
+Far from the computer, I like taking care of my wellbeing, eating healthy, exercising regularly and travelling to new and unknown destinations.
 
 🌍 I'm currently based in Barcelona  
-⚡ I'm currently improving my knowledge in Redux  
+⚡ I'm currently improving my knowledge in Redux, Redis and GraphQL  
 🤝 I'm looking to collaborate on Full Stack projects  
 💬 You can contact me at apenalvermunita@gmail.com  
 
@@ -17,18 +18,30 @@ Languages:
 
 [![JavaScript TypeScript HTML5 CSS3](https://skills.thijs.gg/icons?i=js,ts,html,css)](https://skills.thijs.gg)
 
-Frontend:
+Front End:
 
 [![React Angular](https://skills.thijs.gg/icons?i=react,angular)](https://skills.thijs.gg)
 
-Backend:
+Back End:
 
-[![NodeJS Express](https://skills.thijs.gg/icons?i=nodejs,expressjs)](https://skills.thijs.gg) , Koa
+[![NodeJS Express](https://skills.thijs.gg/icons?i=nodejs,expressjs)](https://skills.thijs.gg) and Koa
 
 Databases:
 
-[![MongoDB PostgreSQL](https://skills.thijs.gg/icons?i=mongodb,postgres)](https://skills.thijs.gg) , Mongoose, Sequelize
+[![MongoDB PostgreSQL](https://skills.thijs.gg/icons?i=mongodb,postgres)](https://skills.thijs.gg) , Mongoose and Sequelize
+
+More:
+
+[![TailwindCSS jQuery Jest Gulp](https://skills.thijs.gg/icons?i=tailwind,jquery,jest,gulp)](https://skills.thijs.gg)
 
 Tools:
 
-[![Git Redux TailwindCSS Markdown](https://skills.thijs.gg/icons?i=git,redux,tailwind,md)](https://skills.thijs.gg) , Adobe Creative Suite
+[![Git GitHub VSCode Heroku Netlify Postman Markdown](https://skills.thijs.gg/icons?i=git,github,vscode,heroku,netlify,postman,md)](https://skills.thijs.gg)
+
+Others:
+
+[![Autocad Sketchup Ps Pr](https://skills.thijs.gg/icons?i=autocad,sketchup,ps,pr)](https://skills.thijs.gg)
+
+Currently improving:
+
+[![Redux GraphQL redis](https://skills.thijs.gg/icons?i=redux,graphql,redis)](https://skills.thijs.gg)
