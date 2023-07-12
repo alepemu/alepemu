@@ -1,9 +1,8 @@
 ## Hi there 👋
 ### My name is Alejandro  
-Currently specialised in JavaScript technologies using NodeJS, Express, Koa, TypeScript, React, Redux, Mongo and SQL. I have also been learning different programming languages like Python and C.
+Full Stack Developer with a background in Architecture. Currently specialised in JavaScript technologies using NodeJS, Express, TypeScript, React, Redux, MongoDB and PostgreSQL. I have also been learning different programming languages like Python and C.
 
-I studied Architecture but I have always been interested in coding and software development. As an architect, I have experienced working in multidisciplinary teams where a good communication and the ability to solve
-problems across the different stages of a project are key to deliver a succesful work.
+I studied Architecture but I have always been interested in coding and software development. As an architect, I have experienced working in multidisciplinary teams where a good communication and the ability to solve problems across the different stages of a project are key to deliver a succesful work.
 
 Passionate about new technologies and good design, I enjoy writing clean and organised code that my team can easily understand. I love working in an efficient collaborative environment where everybody can take part.
 
@@ -13,6 +12,7 @@ Far from the computer, I like taking care of my wellbeing, eating healthy, exerc
 ⚡ I'm currently improving my knowledge in Redux, Redis and GraphQL  
 🤝 I'm looking to collaborate on Full Stack projects  
 💬 You can contact me at apenalvermunita@gmail.com  
+🔗 My personal website www.alepemu.me
 
 Languages:
 
