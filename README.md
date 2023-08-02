@@ -12,36 +12,37 @@ Beyond the scope of computing, I like taking care of my well-being through mindf
 ⚡ I'm currently improving my knowledge in Redux  
 🤝 I'm looking to collaborate on Full Stack projects  
 💬 You can contact me at apenalvermunita@gmail.com  
-🔗 My personal website www.alepemu.me
+🔗 My personal website is www.alepemu.me
 
-Languages:
+### Current stack 
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat"/>
 
-[![JavaScript TypeScript HTML5 CSS3](https://skills.thijs.gg/icons?i=js,ts,html,css)](https://skills.thijs.gg)
+<img src="https://img.shields.io/badge/Node.JS-339933?logo=node.js&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white&style=flat"/>
 
-Front End:
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat"/>
 
-[![React Angular](https://skills.thijs.gg/icons?i=react,angular)](https://skills.thijs.gg)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=flat"/>
 
-Back End:
+<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat"/>
+</p>
 
-[![NodeJS Express](https://skills.thijs.gg/icons?i=nodejs,expressjs)](https://skills.thijs.gg) and Koa
-
-Databases:
-
-[![MongoDB PostgreSQL](https://skills.thijs.gg/icons?i=mongodb,postgres)](https://skills.thijs.gg) , Mongoose and Sequelize
-
-More:
-
-[![TailwindCSS jQuery Jest Gulp](https://skills.thijs.gg/icons?i=tailwind,jquery,jest,gulp)](https://skills.thijs.gg)
-
-Tools:
-
-[![Git GitHub VSCode Heroku Netlify Postman Markdown](https://skills.thijs.gg/icons?i=git,github,vscode,heroku,netlify,postman,md)](https://skills.thijs.gg)
-
-Others:
-
-[![Autocad Sketchup Ps Pr](https://skills.thijs.gg/icons?i=autocad,sketchup,ps,pr)](https://skills.thijs.gg)
-
-Currently improving:
-
-[![Redux GraphQL redis](https://skills.thijs.gg/icons?i=redux,graphql,redis)](https://skills.thijs.gg)
+<p>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=flat"/>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat"/>
+</p>
