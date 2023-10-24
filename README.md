@@ -26,7 +26,6 @@ Beyond the scope of computing, I like taking care of my well-being through mindf
 <img src="https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white&style=flat"/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
-// <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat"/>// 
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
