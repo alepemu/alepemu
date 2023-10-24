@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Alejandro  
-Full Stack Developer with a background in Architecture, blending creativity and technical expertise to create exceptional digital experiences. My current focus lies in JavaScript technologies, particularly NodeJS, Express, TypeScript, React, Redux, MongoDB, and PostgreSQL. Additionally, I've been also exploring Angular, Redis and GraphQL.
+Full Stack Developer with a background in Architecture, blending creativity and technical expertise to create exceptional digital experiences. My current focus lies in JavaScript technologies, particularly NodeJS, Express, TypeScript, React, MongoDB, and PostgreSQL. Additionally, I've been also exploring Angular, Redis and GraphQL.
 
 I've always been interested in coding and software development during my career, having the chance to work in multidisciplinary teams and dynamic environments, where effective communication and problem-solving skills were key to deliver succesful projects.
 
@@ -26,7 +26,7 @@ Beyond the scope of computing, I like taking care of my well-being through mindf
 <img src="https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white&style=flat"/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat"/>
+// <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat"/>// 
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
